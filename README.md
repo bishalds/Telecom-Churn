@@ -1,4 +1,4 @@
-# telecom
+# Telecom Churn Case Study
 Introduction and Problem Statement
 Business problem Statement
  
